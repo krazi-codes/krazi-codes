@@ -6,12 +6,6 @@
   <img src="https://imgs.search.brave.com/wk-N7ZIqd55CyW7vRby1YXtJGsgNBIijNCrfh1m15wI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhM0kzWkROMk5H/YzNhMlJvWldkc1lU/bHlNelZxTWpZMWNt/RnBaM0kwWVdneVpY/b3hkVFkwYlNabGNE/MTJNVjluYVdaelgz/TmxYWEpqYUNaamRE/MW4vd2Q5ZUNUU3BT/SVM0aHpRNVVvLzIw/MC5naWY.gif" width="100%" alt="Ghost of Tsushima Cinematic Art GIF"/>
 </p>
 
-<p align="center">
-  <a href="https://issam.me">🌌 <b>🌐 Web Dojo</b></a> • 
-  <a href="https://www.linkedin.com/in/issam-ahmad/">⚔️ <b>💼 LinkedIn</b></a> • 
-  <a href="https://www.instagram.com/_issam.ahmad_/">🍂 <b>📸 Instagram</b></a>
-</p>
-
 ---
 > **「心、水のごとし。濁れば見えず、澄めば万物すべて映る」**
 > *"The mind is like water. When turbulent, it cannot see. When calm, everything is reflected."*
