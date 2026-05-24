@@ -1,30 +1,34 @@
-# 🥷 ɪꜱꜱᴀᴍ ᴀʜᴍᴀᴅ | THE GHOST OF TSUSHIMA
+# ɪꜱꜱᴀᴍ ᴀʜᴍᴀᴅ | THE GHOST
 
-<p align="center">
-  <img src="https://imgs.search.brave.com/-P_gl-7Jk--VurBWuu2HIdIVnwK-Rkua161-xbtKwbc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2ExL2Ji/L2I0L2ExYmJiNDc1/MjYyZWRjOWYyNzA0/ZmNlOWQ3YjRhZWMz/LmpwZw" width="100%" alt="Ghost of Tsushima Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://imgs.search.brave.com/wk-N7ZIqd55CyW7vRby1YXtJGsgNBIijNCrfh1m15wI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhM0kzWkROMk5H/YzNhMlJvWldkc1lU/bHlNelZxTWpZMWNt/RnBaM0kwWVdneVpY/b3hkVFkwYlNabGNE/MTJNVjluYVdaelgz/TmxYWEpqYUNaamRE/MW4vd2Q5ZUNUU3BT/SVM0aHpRNVVvLzIw/MC5naWY.gif" width="100%" alt="Ghost of Tsushima Cinematic Art GIF"/>
-</p>
-
-<p align="center">
-  <a href="https://issam.me">🌌 <b>🌐 Web Dojo</b></a> • 
-  <a href="https://www.linkedin.com/in/issam-ahmad/">⚔️ <b>💼 LinkedIn</b></a> • 
-  <a href="https://www.instagram.com/_issam.ahmad_/">🍂 <b>📸 Instagram</b></a>
-</p>
-
----
-
-### ⛩️ THE PATH OF THE GHOST
-
-> **「心、水のごとし。濁れば見えず、澄めば万物すべて映る」**
-> *"The mind is like water. When turbulent, it cannot see. When calm, everything is reflected."*
-
-I am a software developer tracking my execution through the digital dojo. Like the Ghost, I adapt, evolve, and employ tactical precision to architect backend frameworks, orchestrate automated systems, and build high-utility tech solutions under pressure.
-
-* **🏯 Current Clan Quest:** AI Integrations, Robust Backend Architectures, and Protocol Optimization.
-* **🥋 Ghost Philosophy:** Code with intent. Strike with speed. Adapt to the battlefield.
+<table border="0">
+  <tr>
+    <td width="35%" valign="top" align="center">
+      <img src="https://imgs.search.brave.com/wk-N7ZIqd55CyW7vRby1YXtJGsgNBIijNCrfh1m15wI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhM0kzWkROMk5H/YzNhMlJvWldkc1lU/bHlNelZxTWpZMWNt/RnBaM0kwWVdneVpY/b3hkVFkwYlNabGNE/MTJNVjluYVdaelgz/TmxYWEpqYUNaamRE/MW4vd2Q5ZUNUU3BT/SVM0aHpRNVVvLzIw/MC5naWY.gif" width="100%" alt="Ghost of Tsushima Art"/>
+    </td>
+    <td width="65%" valign="top" align="center">
+      <br/><br/>
+      <h2>Hi! I'm Issam</h2>
+      <p>⛩️ I am a software developer tracking my execution through the digital dojo.</p>
+      <p>⚔️ Like the Ghost, I adapt, evolve, and employ tactical precision.</p>
+      <p>💻 I build high-utility tech solutions, backend frameworks, and automated systems.</p>
+      <p><i><b>I am going to be a 10,000x engineer</b></i></p>
+      <br/>
+      <h3>Find me on</h3>
+      <p>
+        <a href="https://www.instagram.com/_issam.ahmad_/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" height="35"/>
+        </a>
+        <a href="https://www.linkedin.com/in/issam-ahmad/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" height="35"/>
+        </a>
+      </p>
+      <br/>
+      <a href="https://issam.me" target="_blank">
+        <img src="https://img.shields.io/badge/CHECK%20OUT%20MY-PORTFOLIO!-E03A3E?style=for-the-badge&labelColor=111111" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,6 +43,21 @@ I am a software developer tracking my execution through the digital dojo. Like t
 
 ### ⚔️ LETHAL TACTICS (THE SKILLS ARSENAL)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111" alt="Python"/>
-  <img src="
+| Combat Domain | Armaments |
+| :--- | :--- |
+| **Katanas (Core Languages)** | `Python` `Java` `TypeScript` `SQL` |
+| **Ghost Weapons (Frameworks)** | `Node.js` `FastAPI` `Git` `Docker` |
+| **The Training Dojo (Tools)** | `Unix` `VS Code` `Eclipse / PyDev` |
+
+---
+
+### 📊 BATTLE SCRIPTS (DOJO METRICS)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03A3E&text_color=C9D1D9&icon_color=E03A3E" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03A3E&text_color=C9D1D9" width="48%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0D1117&ring=E03A3E&fire=E03A3E&stroke=000000" width="98%" alt="GitHub Streak"/>
+</p>
