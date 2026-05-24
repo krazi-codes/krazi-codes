@@ -1,34 +1,32 @@
-# ɪꜱꜱᴀᴍ ᴀʜᴍᴀᴅ | THE GHOST
+# 🥷 ɪꜱꜱᴀᴍ ᴀʜᴍᴀᴅ | THE GHOST
 
-<table border="0">
-  <tr>
-    <td width="35%" valign="top" align="center">
-      <img src="https://imgs.search.brave.com/wk-N7ZIqd55CyW7vRby1YXtJGsgNBIijNCrfh1m15wI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhM0kzWkROMk5H/YzNhMlJvWldkc1lU/bHlNelZxTWpZMWNt/RnBaM0kwWVdneVpY/b3hkVFkwYlNabGNE/MTJNVjluYVdaelgz/TmxYWEpqYUNaamRE/MW4vd2Q5ZUNUU3BT/SVM0aHpRNVVvLzIw/MC5naWY.gif" width="100%" alt="Ghost of Tsushima Art"/>
-    </td>
-    <td width="65%" valign="top" align="center">
-      <br/><br/>
-      <h2>Hi! I'm Issam</h2>
-      <p>⛩️ I am a software developer tracking my execution through the digital dojo.</p>
-      <p>⚔️ Like the Ghost, I adapt, evolve, and employ tactical precision.</p>
-      <p>💻 I build high-utility tech solutions, backend frameworks, and automated systems.</p>
-      <p><i><b>I am going to be a 10,000x engineer</b></i></p>
-      <br/>
-      <h3>Find me on</h3>
-      <p>
-        <a href="https://www.instagram.com/_issam.ahmad_/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" height="35"/>
-        </a>
-        <a href="https://www.linkedin.com/in/issam-ahmad/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" height="35"/>
-        </a>
-      </p>
-      <br/>
-      <a href="https://issam.me" target="_blank">
-        <img src="https://img.shields.io/badge/CHECK%20OUT%20MY-PORTFOLIO!-E03A3E?style=for-the-badge&labelColor=111111" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://imgs.search.brave.com/wk-N7ZIqd55CyW7vRby1YXtJGsgNBIijNCrfh1m15wI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhM0kzWkROMk5H/YzNhMlJvWldkc1lU/bHlNelZxTWpZMWNt/RnBaM0kwWVdneVpY/b3hkVFkwYlNabGNE/MTJNVjluYVdaelgz/TmxYWEpqYUNaamRE/MW4vd2Q5ZUNUU3BT/SVM0aHpRNVVvLzIw/MC5naWY.gif" align="left" width="38%" stroke="0" style="margin-right: 25px; border-radius: 4px;"/>
+</p>
+
+## Hi! I'm Issam 👋
+
+📚 **I am a software developer tracking my execution through the digital dojo.**
+🌙 *Like the Ghost, I adapt, evolve, and employ tactical precision.*
+🛠️ *I build high-utility tech solutions, backend frameworks, and automated systems.*
+
+
+### Find me on
+<p align="left">
+  <a href="https://www.linkedin.com/in/issam-ahmad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" height="35"/>
+  </a>
+  <a href="https://www.instagram.com/_issam.ahmad_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" height="35"/>
+  </a>
+</p>
+
+<a href="https://issam.me" target="_blank">
+  <img src="https://img.shields.io/badge/CHECK%20OUT%20MY-PORTFOLIO!-E03A3E?style=for-the-badge&labelColor=111111" height="40"/>
+</a>
+
+<br clear="left"/>
+<br/>
 
 ---
 
