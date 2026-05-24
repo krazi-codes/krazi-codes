@@ -60,10 +60,3 @@ I am a software developer from WLU tracking my execution through the digital doj
 </p>
 
 ---
-
-### 📊 BATTLE SCRIPTS (DOJO METRICS)
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0D1117&ring=E03A3E&fire=E03A3E&stroke=000000" width="98%" alt="GitHub Streak"/>
-</p>
