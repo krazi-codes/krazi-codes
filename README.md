@@ -21,13 +21,22 @@ I am a software developer and builder tracking my journey through the digital do
 
 ---
 
+### 🏆 Dojo Victories (Hackathon Wins)
+
+#### 🎙️ [Dubbify](https://devpost.com/software/dubbify)
+*   **Award:** 🥇 Winner - Best Project Built with ElevenLabs
+*   **Description:** An advanced multi-lingual video/audio translation platform utilizing real-time voice cloning and localized synchronization to break global communication barriers seamlessly.
+*   **Tech Stack:** `Python` `ElevenLabs API` `FastAPI`
+
+---
+
 ### ⚔️ The Arsenal (Skills & Tech)
 
 | Domain | Weapons of Choice |
 | :--- | :--- |
 | **Languages** | `Python` `Java` `TypeScript` `SQL` |
-| **Frameworks / Tools** | `Node.js` `FastAPI` `Git` `Docker` |
-| **IDE / Environment** | `VS Code` `Eclipse` `PyDev` `Unix` |
+| **Frameworks / Tools** | `Node.js` `FastAPI` `Git` |
+| **IDE / Environment** | `VS Code` `Eclipse` `PyDev`|
 
 ---
 
