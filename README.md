@@ -1,7 +1,5 @@
-# 🥷 ɪꜱꜱᴀᴍ ᴀʜᴍᴀᴅ 
-
 <p align="center">
-  <img src="[https://imgs.search.brave.com/-P_gl-7Jk--VurBWuu2HIdIVnwK-Rkua161](https://imgs.search.brave.com/gSsjllgbN9tJiinr70ezEZt8u3PMa2GQz-gfHL_amew/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5s/YXplcmhvcnNlLm9y/Zy93cC1jb250ZW50/L3VwbG9hZHMvMjAx/NS8wOC84LUJpdC1H/SUZzLUphcGFuLVJh/aW4uZ2lm.gif)-xbtKwbc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2ExL2Ji/L2I0L2ExYmJiNDc1/MjYyZWRjOWYyNzA0/ZmNlOWQ3YjRhZWMz/LmpwZw" width="100%" alt="Ghost of Tsushima Banner"/>
+  <img src="https://imgs.search.brave.com/-P_gl-7Jk--VurBWuu2HIdIVnwK-Rkua161-xbtKwbc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2ExL2Ji/L2I0L2ExYmJiNDc1/MjYyZWRjOWYyNzA0/ZmNlOWQ3YjRhZWMz/LmpwZw" width="100%" alt="Ghost of Tsushima Banner"/>
 </p>
 
 <p align="center">
@@ -15,16 +13,13 @@
 </p>
 
 ---
-
-### ⛩️ THE PATH OF THE GHOST
-
 > **「心、水のごとし。濁れば見えず、澄めば万物すべて映る」**
 > *"The mind is like water. When turbulent, it cannot see. When calm, everything is reflected."*
 
-I am a software developer tracking my execution through the digital dojo. Like the Ghost, I adapt, evolve, and employ tactical precision to architect backend frameworks, orchestrate automated systems, and build high-utility tech solutions under pressure.
+I am a software developer from WLU tracking my execution through the digital dojo.I adapt, evolve, and employ tactical precision to architect backend frameworks, orchestrate automated systems, and build high-utility tech solutions under pressure.
 
-* **🏯 Current Clan Quest:** AI Integrations, Robust Backend Architectures, and Protocol Optimization.
-* **🥋 Ghost Philosophy:** Code with intent. Strike with speed. Adapt to the battlefield.
+* **Current Quest:** AI Integrations, Robust Backend Architectures, and Protocol Optimization.
+* **Philosophy:** Code with intent. Strike with speed. Adapt to the battlefield.
 
 ---
 
@@ -45,15 +40,14 @@ I am a software developer tracking my execution through the digital dojo. Like t
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=111" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=111" alt="Java"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=111" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=111" alt="Docker"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=111" alt="Eclipse"/>
 </p>
 
 | Combat Domain | Armaments |
 | :--- | :--- |
-| **Katanas (Core Languages)** | `Python` `Java` `TypeScript` `SQL` |
-| **Ghost Weapons (Frameworks)** | `Node.js` `FastAPI` `Git` `Docker` |
-| **The Training Dojo (Tools)** | `Unix` `VS Code` `Eclipse / PyDev` |
+| **Katanas (Core Languages)** | `Python` `Java` `TypeScript`|
+| **Ghost Weapons (Frameworks)** | `Node.js` `FastAPI` `Git` |
+| **The Training Dojo (Tools)** | `VS Code` `Eclipse / PyDev`|
 
 ---
 
@@ -75,10 +69,6 @@ I am a software developer tracking my execution through the digital dojo. Like t
 
 ### 📊 BATTLE SCRIPTS (DOJO METRICS)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03A3E&text_color=C9D1D9&icon_color=E03A3E" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03A3E&text_color=C9D1D9" width="48%" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0D1117&ring=E03A3E&fire=E03A3E&stroke=000000" width="98%" alt="GitHub Streak"/>
