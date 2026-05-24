@@ -1,7 +1,7 @@
-# 🥷 ɪꜱꜱᴀᴍ ᴀʜᴍᴀᴅ | ᴛʜᴇ ᴄᴏᴅɪɴɢ ꜱᴀᴍᴜʀᴀɪ
+# ɪꜱꜱᴀᴍ ᴀʜᴍᴀᴅ | ᴛʜᴇ ᴄᴏᴅɪɴɢ ꜱᴀᴍᴜʀᴀɪ
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/GitHub/GitHub.png" width="150" alt="Samurai Tech"/>
+  <img src="https://imgs.search.brave.com/-P_gl-7Jk--VurBWuu2HIdIVnwK-Rkua161-xbtKwbc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2ExL2Ji/L2I0L2ExYmJiNDc1/MjYyZWRjOWYyNzA0/ZmNlOWQ3YjRhZWMz/LmpwZw" width="100%" alt="Samurai Banner"/>
 </p>
 
 <p align="center">
@@ -50,10 +50,10 @@ I am a software developer and builder tracking my journey through the digital do
 ### 📊 Dojo Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3E3E&text_color=C9D1D9&icon_color=FF3E3E" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3E3E&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3E3E&text_color=C9D1D9&icon_color=FF3E3E" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3E3E&text_color=C9D1D9" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3E3E&fire=FF3E3E&stroke=000000" alt="GitHub Streak" width="98%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3E3E&fire=FF3E3E&stroke=000000" width="98%" alt="GitHub Streak"/>
 </p>
