@@ -1,67 +1,59 @@
-<div align="center">
-  <a href="https://issam.me" target="_blank">
-    <img
-      src="./assets/rainy-night.gif"
-      alt="Wallpaper"
-      width="1000"
-      height="500"
-    />
-  </a>
-</div>
+# 🥷 ɪꜱꜱᴀᴍ ᴀʜᴍᴀᴅ | ᴛʜᴇ ᴄᴏᴅɪɴɢ ꜱᴀᴍᴜʀᴀɪ
 
-<div align="center">
-    <a href="https://issam.me" target="_blank">
-      <img 
-      align="left" 
-      src="./assets/rainy-long.gif"
-      width="300"
-      />
-  </a>
-  
-  <div align="center">
-  <a href="https://github.com/krazi-codes" target="_blank">
-    <img width="125px" title="Total profile views" src="https://komarev.com/ghpvc/?username=AP3008&color=ebbcba&labelColor=191724&style=for-the-badge" alt="Profile Views"></img>
-    <a href="https://github.com/krazi-codes?tab=repositories"><img width="110px" alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/AP3008?style=for-the-badge&label=Stars&labelColor=191724&color=31748f&logo=github&logoColor=e0def4" /></img></a>
-    <img width="125px" alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/AP3008?style=for-the-badge&label=Followers&labelColor=191724&color=c4a7e7&logo=github&logoColor=e0def4" /></a>
-    <img width="110px" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=f6c177&labelColor=191724&logoColor=e0def4&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/krazi-codes" /></a>
-  </a>
-</div>
-
-<h3 align="center">Hi! I'm Issam </h3>
-<p>
-  📖 I am a student at Wilfrid Laurier University studying Computer Science.<br>
-  🔭 I want to learn as much as possible.<br>
-  🔨 I like building cool things.<br>
-  <strong><em>I like making Games</em></strong>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/GitHub/GitHub.png" width="150" alt="Samurai Tech"/>
 </p>
 
-  <h3>Find me on</h3>
-  <div align="center">
-    <a href="mailto:adam.porbanderwalla@gmail.com"><img width=45px src="./assets/gmail.png"></img></a>
-    <a href="https://www.linkedin.com/in/adam-porbanderwalla/"><img width=45px src="./assets/linkedin.png"></img></a>
-    <a href="https://open.spotify.com/playlist/7fzgk1Se4NI4r5kTUgqCTq?si=0913dfd182a045a0&pt=e9d60c0ab908d64ac7b53dc14f50c356"><img width=45px src="./assets/spotify.png"></img></a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://issam.me">🌐 Website</a> • 
+  <a href="https://www.linkedin.com/in/issam-ahmad/">💼 LinkedIn</a> • 
+  <a href="https://www.instagram.com/_issam.ahmad_/">📸 Instagram</a>
+</p>
 
-<div align="center">
-  <a href="https://ap3008.dev" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Check%20out%20my-Portfolio!-ebbcba?style=for-the-badge&labelColor=191724&color=ebbcba&logo=browser&logoColor=e0def4"
-      alt="Website Visit"
-    />
+---
+
+### 🗡️ "The Mind Is Like Water. When It's Turbulent, It's Difficult To See. When It's Calm, Everything Becomes Clear."
+
+I am a software developer and builder tracking my journey through the digital dojo. I focus on crafting clean code, optimizing algorithmic performance, and shipping high-utility technical solutions.
+
+*   **🏯 Current Focus:** AI Integrations, Backend Architectures, and Optimization.
+*   **🥋 Philosophy:** Code with intent. Refactor with discipline. Ship with speed.
+
+---
+
+### ⚔️ The Arsenal (Skills & Tech)
+
+| Domain | Weapons of Choice |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `TypeScript` `SQL` |
+| **Frameworks / Tools** | `Node.js` `FastAPI` `Git` `Docker` |
+| **IDE / Environment** | `VS Code` `Eclipse` `PyDev` `Unix` |
+
+---
+
+### 🏮 Connect With Me
+
+<p align="left">
+  <a href="https://issam.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-issam.me-101010?style=for-the-badge&logo=google-chrome&logoColor=FF3E3E&labelColor=1a1a1a" alt="Website"/>
   </a>
-  
-  <br><br>
-  <a href="https://ap3008.dev" target="_blank"> <img style="display: flex; justify-content: flex-end; align-items: center;" width="500" src="./assets/rainy-cyber.gif"></img> </a>
+  <a href="https://www.linkedin.com/in/issam-ahmad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Issam%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_issam.ahmad_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@__issam.ahmad__-E4405F?style=for-the-badge&logo=instagram&logoColor=FF3E3E&labelColor=1a1a1a" alt="Instagram"/>
+  </a>
+</p>
 
-</div>
+---
 
-<div align="center">
-  
-  <h3>Check out my stats</h3>
-  
-  <a href="https://github.com/krazi-codes"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=krazi-codes&count_private=true&show_icons=true&rank_icon=github&border_radius=8&bg_color=00000000&title_color=ebbcba&icon_color=31748f&text_color=e0def4&hide_border=true" />
-<img width="400" src="https://github-readme-streak-stats-eight-theta.vercel.app?user=AP3008&theme=rose_pine&hide_border=true&background=00000000&ring=9ccfd8&fire=eb6f92&currStreakNum=ebbcba&sideNums=9ccfd8&currStreakLabel=6e6a86&sideLabels=6e6a86&dates=6e6a86" alt="GitHub Streak Stats" /></a>
-  
-  Check out <a href="https://issam.me" target="_blank"><strong>my website</strong></a> to learn more about me
+### 📊 Dojo Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3E3E&text_color=C9D1D9&icon_color=FF3E3E" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3E3E&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3E3E&fire=FF3E3E&stroke=000000" alt="GitHub Streak" width="98%"/>
 </p>
